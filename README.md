@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=ayush-ahire&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-ahire" />
+<img src="https://github.com/ayush-ahire/ayush-ahire/blob/main/github-header-image.png" alt="ayush-ahire" />
 <h1 align="center">Hi 👋, I'm Ayush Ahire</h1>
 <h3 align="center">Passionate about web development and web designing</h3>
 
