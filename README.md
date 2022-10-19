@@ -1,4 +1,4 @@
-<h1 align="center">Hi,It's Ayush I Welcome to my github Profile 👨‍💻</h1>
+<h1 align="center">Hi,It's Ayush 👨‍💻</h1>
 <h3 align="center">Passionate about web development and web designing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-ahire&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-ahire" /> </p>
