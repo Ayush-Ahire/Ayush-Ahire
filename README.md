@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-ahire&show_icons=true&locale=en&layout=compact" alt="ayush-ahire" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-ahire&show_icons=true&locale=en" alt="ayush-ahire" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-ahire&show_icons=true&locale=en" alt="ayush-ahire" /></p> -->
