@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻Web Developer<br>🎋 I develop using React Js and Next Js<br>🎧 Music and ☕ Coffee are dependencies<br>🔭 Currently into Web 3.0, Solidity & Dapp Development
+👨🏻‍💻Web Developer& Designer 🖼️<br>🎋 I develop using React Js and Next Js<br>🎧 Music and ☕ Coffee are dependencies<br>🔭 Currently into Web 3.0, Solidity & Dapp Development
 
 
 ## 🌐 Socials:
